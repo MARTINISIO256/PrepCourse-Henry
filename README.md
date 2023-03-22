@@ -1,1 +1,1 @@
-Prueba de como crear un repositorio y clonarla desde github a la computadora
+Prueba de la creacion de un repositorio y clonarla desde github a la computadora
